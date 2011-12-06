@@ -1,0 +1,16 @@
+/*
+Theme Name:     BDT_2011
+Theme URI:      http: //breakfastdinnertea.co.uk/
+Description:    Adaptation of the gorgeous TwentyEleven  
+Author:         Simon Scarfe
+Author URI:     http: //twitter.com/simonscarfe
+Template:       twentyeleven
+Version:        0.0.1
+*/
+
+@import url("../twentyeleven/style.css");
+
+#page {background: rgba(255, 255, 255, 0.95);border:3px solid #313131;-webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;}
+#branding {border-top: 0;}
+
+
