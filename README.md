@@ -1,0 +1,1 @@
+Figured I'd be more motivated to customise my homepage theme more if I felt people were watching (no idea how that works logically, mind you). It's simple at the moment - just a child of twentyeleven, with a few modifications - but I'd like to squeeze more out of it in time.
